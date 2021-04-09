@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /contacts.php
+Disallow: /contacts
+Sitemap: http://x2.if.ua/sitemap.xml
+Allow: /versions
+Allow: /project
+Allow: /about
+Allow: /team
+Allow: /
+Host: x2.if.ua

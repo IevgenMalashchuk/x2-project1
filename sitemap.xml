@@ -1,0 +1,26 @@
+<urlset>
+  <url>
+    <loc>http://x2.if.ua/</loc>
+    <lastmod>2021-04-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://x2.if.ua/versions</loc>
+    <lastmod>2021-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://x2.if.ua/about</loc>
+    <lastmod>2021-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://x2.if.ua/team</loc>
+    <lastmod>2021-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

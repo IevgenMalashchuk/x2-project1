@@ -1,0 +1,10 @@
+RewriteEngine On
+#Options -FollowSymlinks
+RewriteBase /
+
+RewriteCond	%{HTTP_HOST}	^www\.x2\.if\.ua$
+RewriteRule	(.*)	http://x2.if.ua/$1	[R=301,L]
+
+RewriteRule	^index\.(htm|html)$	index.php?page=start [L]
+RewriteRule	^(about|contacts|team|versions)$	index.php?page=$1 [L]
+#RewriteRule	^sitemap\.xml$	index.php?page=sitemap [L]

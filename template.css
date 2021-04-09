@@ -1,0 +1,67 @@
+body { 
+  background-color: black;
+}
+
+#mainhead {
+  border-top: 1px solid blueviolet;
+  height: 60px;
+  padding-top: 40px;
+  text-align: center;
+  align-self: center;
+}
+
+#mainpage {
+  color: white;
+  align-self: center;
+  text-align: center;
+  padding: 20px;
+}
+
+#mainfoot {
+  height: 100px;
+  margin-top: 32px;
+  text-align: center;
+  align-self: center;
+  vertical-align: middle;
+}
+
+a, span, p {
+  font-family: "open sans", Verdana, Arial, Helvetica, sans-serif;
+}
+
+a.h1 {
+  color: whitesmoke;
+  font-size: 24px;
+  text-decoration: none;
+  letter-spacing: 4px;
+}
+a.h1:hover {
+  color: blueviolet;
+}
+
+span.footmenu {
+  text-align: center;
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+a.menu {
+  color: whitesmoke;
+  font-size: 13px;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+a.menu:hover {
+  color: blueviolet;
+}
+
+p {
+  color: white;
+  font-size: 16px;
+}
+
+span.copyleft {
+  color: gray;
+  font-size: 12px;
+}
