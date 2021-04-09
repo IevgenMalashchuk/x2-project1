@@ -1,0 +1,1 @@
+<p>&laquo; <?php print($page['title']); ?> &raquo;</p>
